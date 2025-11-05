@@ -50,7 +50,7 @@ This project is licensed under the **MIT License** — free for use, modificatio
 
 ## 👤 Author
 **Aashish Madhikarmi**  
-*Computer Engineer | Open-source hardware & satellite systems enthusiast*  
+*Computer Engineer*  
 📧 *[aashish_manu@icloud.com]*
 
 
